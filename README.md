@@ -1,9 +1,9 @@
 ## Hi there, I'm Anand Kumar Bhagat 👋  
 
-🎓 Master’s Student in Management Information Systems @ Lamar University
-💡 Passionate about Data Analytics, Business Intelligence, and SAP S/4HANA
-🚀 Seeking Summer 2025 Internships in Business Data Analyst & SAP S/4HANA
-🏆 Mary Frances Dishman Sherlock Scholarship Recipient
+🎓 [Master’s Student in Management Information Systems @ Lamar University](link)  
+💡 [Passionate about Data Analytics, Business Intelligence, and SAP S/4HANA](link)  
+🚀 [Seeking Summer 2025 Internships in Business Data Analyst & SAP S/4HANA](link)  
+🏆 [Mary Frances Dishman Sherlock Scholarship Recipient](link)
 
 ---
 
