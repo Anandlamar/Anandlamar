@@ -8,11 +8,13 @@
 ---
 
 
-🔥 About Me
-📊 Skilled in SAP S/4HANA, Python, SQL, Tableau, Java, C Programming, R, AWS QuickSight, and more
-🏗️ Extensive experience in Data Management, Business Intelligence, System Analysis, Cybersecurity, and Predictive Analytics
-📚 Currently a Graduate Research Assistant @ Lamar University, focusing on AI’s impact on society, economies, and the workforce
-📈 Passionate about AI’s integration in defense systems, organizational efficiency, and job market transformations, with a strong foundation in data-driven decision-making and advanced analytics
+## 🔥 About Me
+
+- 📊 Skilled in SAP S/4HANA, Python, SQL, Tableau, Java, C Programming, R, AWS QuickSight, and more  
+- 🏗️ Extensive experience in Data Management, Business Intelligence, System Analysis, Cybersecurity, and Predictive Analytics  
+- 📚 Currently a Graduate Research Assistant @ Lamar University, focusing on AI’s impact on society, economies, and the workforce  
+- 📈 Passionate about AI’s integration in defense systems, organizational efficiency, and job market transformations, with a strong foundation in data-driven decision-making and advanced analytics  
+
 
 ---
 
@@ -42,5 +44,5 @@
 
 📍 **Location:** Beaumont, TX | **Email:** [abhagat@lamar.edu](mailto:abhagat@lamar.edu)  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anandkumarbhagat)  
+[![LinkedIn](https://www.linkedin.com/in/anand-bhagat-a616462b4/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anandbhagat)
