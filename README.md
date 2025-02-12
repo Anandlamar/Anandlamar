@@ -47,3 +47,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anand-bhagat-a616462b4/)
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anandbhagat)
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4C6C9C?style=flat-square&logo=html5&logoColor=white)](https://anandlamar.github.io/index.html)
+
