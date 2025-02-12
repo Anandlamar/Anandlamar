@@ -32,7 +32,7 @@
 ---
 
 📚 **Certifications & Courses**  
-🚀 [TSA 410 SAP Business Integration Certification (In Progress)](link)  
+🚀 [TSA 410 SAP Business Integration Certification](link)  
 🎓 [SAP Certified Associate – Business Process Integration with SAP S/4HANA](link)  
 🏅 [Analyzing Data in Tableau | DataCamp](link)  
 🏆 [Oracle Certificate in Database Programming with SQL](link)
