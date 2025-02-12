@@ -15,22 +15,25 @@
 
 ---
 
-Programming Languages: Python, SQL, Java, C Programming
+**Programming Languages:**  
+[Python](https://www.python.org/), [SQL](https://www.postgresql.org/), [Java](https://www.java.com/en/), [C Programming](https://en.wikipedia.org/wiki/C_(programming_language))
 
-Tools & Platforms: SAP, Tableau, Power BI
-, AWS
+**Tools & Platforms:**  
+[SAP](https://www.sap.com/), [Tableau](https://www.tableau.com/), [Power BI](https://powerbi.microsoft.com/), [AWS](https://aws.amazon.com/)
 
-Other Tools: GitHub, Jira
+**Other Tools:**  
+[GitHub](https://github.com/), [Jira](https://www.atlassian.com/software/jira)
 
 
 
 ---
 
-📚 Certifications & Courses
-🚀 TSA 410 SAP Business Integration Certification (In Progress)
-🎓 SAP Certified Associate – Business Process Integration with SAP S/4HANA
-🏅 Analyzing Data in Tableau | DataCamp
-🏆 Oracle Certificate in Database Programming with SQL
+📚 **Certifications & Courses**  
+🚀 [TSA 410 SAP Business Integration Certification (In Progress)](link)  
+🎓 [SAP Certified Associate – Business Process Integration with SAP S/4HANA](link)  
+🏅 [Analyzing Data in Tableau | DataCamp](link)  
+🏆 [Oracle Certificate in Database Programming with SQL](link)
+
 
 ---
 
