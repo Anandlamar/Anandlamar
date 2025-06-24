@@ -2,7 +2,7 @@
 
 - 🎓 Master’s Student in Management Information Systems @ Lamar University  
 - 💡 Passionate about Data Analytics, Business Intelligence, and SAP S/4HANA  
-- 🚀 Seeking Summer 2025 Internships in Business Data Analyst & SAP S/4HANA  
+- 💼 SAP IT Intern @ Amplify Cell Technologies – Summer 2025 
 - 🏆 Mary Frances Dishman Sherlock Scholarship Recipient  
 
 ---
