@@ -20,8 +20,8 @@ SAP-focused Analytics & Integration professional working in SAP S/4HANA Public C
 
 
 📚 **Certifications & Courses**  
-🚀  SAP Certified Associate – SAP Business Data Cloud
-🚀SAP Certified Associate – SAP Analytics Cloud 
+🚀  SAP Certified Associate  – SAP Business Data Cloud
+🚀  SAP Certified Associate – SAP Analytics Cloud 
 🚀 [TSA 410 SAP Business Integration Certification](link)  
 🎓 [SAP Certified Associate – Business Process Integration with SAP S/4HANA](link)  
 🏅 [Analyzing Data in Tableau | DataCamp](link)  
