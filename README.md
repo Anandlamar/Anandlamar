@@ -1,12 +1,9 @@
-## Hi there, I'm Anand Kumar Bhagat 👋  
-
-- 🎓 Master’s Student in Management Information Systems @ Lamar University  
-- 💡 Passionate about Data Analytics, Business Intelligence, and SAP S/4HANA  
-- 🚀 SAP Certified (BDC | SAC | S/4HANA Business Process Integration) 
-- 🏆 Mary Frances Dishman Sherlock Scholarship Recipient  
-
----
-
+# Hi, I’m Anand Kumar Bhagat 👋
+  SAP Analytics & Integration Professional specializing in SAP S/4HANA Public Cloud and SAP Analytics Cloud.
+🎓 M.S. in Management Information Systems – Lamar University  
+🚀 SAP Certified: Business Data Cloud | SAP Analytics Cloud | S/4HANA Business Process Integration  
+💼 SAP Analytics & Integration Analyst @ Amplify Cell Technologies     
+🏆 Mary Frances Dishman Sherlock Scholarship Recipient  
 
 ## 🔥 About Me
 SAP-focused Analytics & Integration professional working in SAP S/4HANA Public Cloud enterprise environment.
