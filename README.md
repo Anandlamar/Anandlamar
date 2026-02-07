@@ -1,5 +1,6 @@
 # Hi, I’m Anand Kumar Bhagat 👋
   SAP Analytics & Integration Professional specializing in SAP S/4HANA Public Cloud and SAP Analytics Cloud.
+
 🎓 M.S. in Management Information Systems – Lamar University  
 🚀 SAP Certified: Business Data Cloud | SAP Analytics Cloud | S/4HANA Business Process Integration  
 💼 SAP Analytics & Integration Analyst @ Amplify Cell Technologies     
