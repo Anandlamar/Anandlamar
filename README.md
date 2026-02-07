@@ -22,8 +22,10 @@ SAP-focused Analytics & Integration professional working in SAP S/4HANA Public C
 📚 **Certifications & Courses**  
 🏅 SAP Certified Associate – SAP Business Data Cloud
 🔗 https://www.credly.com/earner/earned/badge/99384e7b-0e0e-4fba-9866-ca70d69d6ef8
+
 🏅 SAP Certified Associate – SAP Analytics Cloud (Data Analyst)
 🔗 https://www.credly.com/badges/f8e77581-0b88-416f-a537-592aa4b3c4d7
+
 🚀 [TSA 410 SAP Business Integration Certification](link)  
 🎓 [SAP Certified Associate – Business Process Integration with SAP S/4HANA](link)  
 🏅 [Analyzing Data in Tableau | DataCamp](link)  
