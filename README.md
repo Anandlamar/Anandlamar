@@ -2,36 +2,26 @@
 
 - 🎓 Master’s Student in Management Information Systems @ Lamar University  
 - 💡 Passionate about Data Analytics, Business Intelligence, and SAP S/4HANA  
-- 💼 SAP IT Intern @ Amplify Cell Technologies – Summer 2025 
+- 🚀 SAP Certified (BDC | SAC | S/4HANA Business Process Integration) 
 - 🏆 Mary Frances Dishman Sherlock Scholarship Recipient  
 
 ---
 
 
 ## 🔥 About Me
+SAP-focused Analytics & Integration professional working in SAP S/4HANA Public Cloud enterprise environment.
 
-- 📊 Skilled in SAP S/4HANA, Python, SQL, Tableau, Java, C Programming, R, AWS QuickSight, and more  
-- 🏗️ Extensive experience in Data Management, Business Intelligence, System Analysis, Cybersecurity, and Predictive Analytics  
-- 📚 Currently a Graduate Research Assistant @ Lamar University, focusing on AI’s impact on society, economies, and the workforce  
-- 📈 Passionate about AI’s integration in defense systems, organizational efficiency, and job market transformations, with a strong foundation in data-driven decision-making and advanced analytics  
+- 📊 SAP Analytics Cloud (SAC) – Enterprise dashboards & KPI design
+- 🏗 SAP S/4HANA Public Cloud – Procurement, Finance, Operations  
+- ☁ SAP Business Data Cloud (BDC) – Data products & modeling
+- 🎫 ServiceNow – SAP incident management, ticket tracking & workflow coordination  
+- 💳 SAP Concur – Expense integration exposure & process alignment
+- 📈 PR/PO analytics, OPEX/CAPEX reporting, workflow cycle-time monitoring
 
-
----
-
-**Programming Languages:**  
-[Python](https://www.python.org/), [SQL](https://www.postgresql.org/), [Java](https://www.java.com/en/), [C Programming](https://en.wikipedia.org/wiki/C_(programming_language))
-
-**Tools & Platforms:**  
-[SAP](https://www.sap.com/), [Tableau](https://www.tableau.com/), [Power BI](https://powerbi.microsoft.com/), [AWS](https://aws.amazon.com/)
-
-**Other Tools:**  
-[GitHub](https://github.com/), [Jira](https://www.atlassian.com/software/jira)
-
-
-
----
 
 📚 **Certifications & Courses**  
+🚀  SAP Certified Associate – SAP Business Data Cloud
+🚀SAP Certified Associate – SAP Analytics Cloud 
 🚀 [TSA 410 SAP Business Integration Certification](link)  
 🎓 [SAP Certified Associate – Business Process Integration with SAP S/4HANA](link)  
 🏅 [Analyzing Data in Tableau | DataCamp](link)  
